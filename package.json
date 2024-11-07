@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://rishabh-28-shubham/github.io/qRCode",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
